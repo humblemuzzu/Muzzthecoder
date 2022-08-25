@@ -1,25 +1,39 @@
-![carl-heyerdahl-KE0nC8-58MQ-unsplash](https://user-images.githubusercontent.com/107297384/177806306-ae230c3a-7233-4102-aae8-0ecb0eb9263b.jpg)
-### Hi there 👋, my name is Muzzammil
-#### I am student learning to code
+<h1 align="center">Hi 👋, I'm Muzzammil</h1>
+<h3 align="center">A passionate tech learner from India</h3>
 
-Skills: Python
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muzzthecoder&label=Profile%20views&color=0e75b6&style=flat" alt="muzzthecoder" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzzthecoder" alt="muzzthecoder" /></a> </p>
 
-- 🌱 I’m currently learning Python 
-- 📫 How to reach me: Socials 
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: Love Badminton 
+<p align="left"> <a href="https://twitter.com/humblemuzzu" target="blank"><img src="https://img.shields.io/twitter/follow/humblemuzzu?logo=twitter&style=for-the-badge" alt="humblemuzzu" /></a> </p>
 
-<p align="center">
-  I am at: <br>
-  <a href="https://www.facebook.com/muzzammil.sabuwala.5"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://www.instagram.com/muzzammil_6040/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://twitter.com/humblemuzzu"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://discord.com/users/981503273586552853"><img src="https://dcbadge.vercel.app/api/shield/981503273586552853?compact=true&theme=clean"></a>![carl-heyerdahl-KE0nC8-58MQ-unsplash](https://user-images.githubusercontent.com/107297384/177806339-66aef586-a8cf-4512-8fee-a31ab139041b.jpg)
+- 🌱 I’m currently learning **JS, HTML5, CSS and JAVA**
 
-  
+- 📝 I regularly write articles on [muzzammil.hashnode.dev](muzzammil.hashnode.dev)
+
+- 📫 How to reach me **humblemuzzu@gmail.com**
+
+- ⚡ Fun fact **I am a beginner and loves to make and interact with new friends**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/humblemuzzu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="humblemuzzu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muzzu humble" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muzzu humble" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/muzzammil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muzzammil" height="30" width="40" /></a>
+<a href="https://fb.com/muzzammil.sabuwala.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muzzammil.sabuwala.5" height="30" width="40" /></a>
+<a href="https://instagram.com/muzzammil_6040" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muzzammil_6040" height="30" width="40" /></a>
+<a href="https://hashnode.com/@muzzammil sabuwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@muzzammil sabuwala" height="30" width="40" /></a>
+<a href="https://discord.gg/muzz_coder#9582" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="muzz_coder#9582" height="30" width="40" /></a>
 </p>
 
-<!--
-[<img src='https://api.iconify.design/simple-icons/github.svg?color=orange&height=100' alt='github' height='40'>](https://github.com/Muzzthecoder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/muzzammil.sabuwala.5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/muzzammil_6040/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/humblemuzzu)  
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/muzz.60"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="muzz.60" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muzzthecoder&show_icons=true&locale=en&layout=compact" alt="muzzthecoder" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muzzthecoder&show_icons=true&locale=en" alt="muzzthecoder" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzzthecoder&" alt="muzzthecoder" /></p>
